@@ -22,4 +22,7 @@
 #Links:
 
 DDD Java: https://github.com/MarcioAlexandreWork/globalsolution2-2026-DDD-java/tree/main
+
 Banco de Dados: 
+
+Network: https://github.com/MarcioAlexandreWork/globalsolution2-2026-network
