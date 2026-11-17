@@ -23,6 +23,9 @@
 
 DDD Java: https://github.com/MarcioAlexandreWork/globalsolution2-2026-DDD-java/tree/main
 
-Banco de Dados: 
+Banco de Dados: https://github.com/MarcioAlexandreWork/globalsolution2-2026-bdd
 
 Network: https://github.com/MarcioAlexandreWork/globalsolution2-2026-network
+
+Data Science (no google collab): https://colab.research.google.com/drive/1Fkr5nQOWrS39MlPCKDPU384Vl-YDnFHv
+
